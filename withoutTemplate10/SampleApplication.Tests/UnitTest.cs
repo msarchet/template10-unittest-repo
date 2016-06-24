@@ -7,6 +7,7 @@ namespace SampleApplication.Tests
     [TestClass]
     public class UnitTest1
     {
+        // This works as expected for Running and Debugging a test
         [UITestMethod]
         public void TestMethod1()
         {
